@@ -65,10 +65,6 @@ class Solution {
             this.cnt = cnt;
         }
         
-        public String toString() {
-            return "word=" + word + ", cnt=" + cnt;
-        }
-        
     }
     
 }
